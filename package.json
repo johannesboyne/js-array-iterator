@@ -1,0 +1,18 @@
+{
+  "name": "js-array-iterator",
+  "version": "0.1.0",
+  "description": "Simple JavaScript Array Iterator, using next() and Events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "Iterator",
+    "Array"
+  ],
+  "devDependencies": {
+    "tape": "~1.1.1"
+  },
+  "author": "Johannes Boyne <johannes@boyne.de>",
+  "license": "MIT"
+}
