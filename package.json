@@ -6,6 +6,10 @@
   "scripts": {
     "test": "node test/test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/johannesboyne/js-array-iterator.git"
+  },
   "keywords": [
     "Iterator",
     "Array"
