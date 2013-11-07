@@ -19,3 +19,5 @@ testIterator.next();
 ### LICENSE
 
 MIT
+
+[![endorse](https://api.coderwall.com/johannesboyne/endorsecount.png)](https://coderwall.com/johannesboyne)
